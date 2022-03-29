@@ -1,0 +1,16 @@
+"manga":{
+	"naruto":{
+		"total_chapters":700,
+		"chapter":[
+			{
+				"chapter_no":"1",
+				"pages":"20",
+				"images":[
+					"1":"LINK_TO_IMAGE_1",
+					"2":"LINK_TO_IMAGE_2",
+					"3":"LINK_TO_IMAGE_3"
+				]
+			}
+		]
+	}
+}
